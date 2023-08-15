@@ -11,7 +11,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bintang_nugrahaa)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bintang-nugraha)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/muhammad.bintangnuhgraha?mibextid=ZbWKwL)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%25D366?logo=whatsapp&logoColor=white)](https://wa.me/081312477357)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%25D366?logo=whatsapp&logoColor=white)](https://wa.me/6281312477357)
 
 
 [![](https://visitcount.itsvg.in/api?id=ortonikc&icon=6&color=0)](https://visitcount.itsvg.in)
