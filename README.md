@@ -8,7 +8,11 @@
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.com/users/stareighteen) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bintang_nugrahaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bintang-nugraha) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@letcode) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bintang_nugrahaa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bintang-nugraha)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://facebook.com/muhammad.bintangnugraha)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%25D366?logo=whatsapp&logoColor=white)](https://wa.me/081312477357)
+
 
 [![](https://visitcount.itsvg.in/api?id=ortonikc&icon=6&color=0)](https://visitcount.itsvg.in)
 # ▶️ Recent Project:
@@ -29,11 +33,8 @@ CHECK MY REPOSITORY<br>
 ![](https://github-profile-trophy.vercel.app/?username=bintangnugrahaa&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)(https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
   ## 📩 You can contact me by Email
-  - djakarta1973@gmail.com 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  - djakarta1973@gmail.com
