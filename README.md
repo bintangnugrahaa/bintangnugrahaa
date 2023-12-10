@@ -70,7 +70,7 @@
   <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white">
 </a>
 
-  <summary><h2>📊 Stats and Activity</h2></summary>
+<h3>📊 Stats and Activity</h3>
 
   <h3>🔥 Streak Stats</h3>
 
