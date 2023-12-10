@@ -70,8 +70,6 @@
   <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white">
 </a>
 
-
-<details> 
   <summary><h2>📊 Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
@@ -115,7 +113,6 @@
   <!-- https://github.com/lowlighter/metrics/blob/master/source/plugins/sponsors/README.md -->
   <a href="https://github.com/sponsors/DenverCoder1/"><img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/metrics-sponsors.svg" /></a>
 
-</details>
 
 <details> 
   <summary><h2>🏷️ Holopin Badges</h2></summary>
