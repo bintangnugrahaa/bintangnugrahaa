@@ -1,4 +1,5 @@
-<!-- Web Technologies -->
+<h3>Web Technologies</h3>
+
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml">
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
 </a>
@@ -35,7 +36,8 @@
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white">
 </a>
 
-<!-- Development Tools -->
+<h3>Development Tools</h3>
+
 <a href="#">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
 </a>
