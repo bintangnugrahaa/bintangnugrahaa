@@ -22,7 +22,8 @@
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
 </a>
 
-<!-- Database -->
+<h3>Database</h3>
+
 <a href="#">
   <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
 </a>
