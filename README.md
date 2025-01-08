@@ -6,7 +6,7 @@
   <a href="https://github.com/bintangnugrahaa?tab=repositories">
     <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=bintangnugrahaa&theme=merko&layout=compact&border_color=599200&langs_count=6" 
          alt="Top Languages" 
-         width="48%">
+         width="40%">
   </a>
 </p>
 
