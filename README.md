@@ -1,1 +1,2 @@
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bintangnugrahaa&show_icons=true&theme=gotham" alt="bintangnugrahaa" />
+<p align="center">
+<img src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=bintangnugrahaa&show_icons=true&theme=merko&border_color=599200">
