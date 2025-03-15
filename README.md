@@ -6,4 +6,4 @@
 <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
 </div>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bintangnugrahaa&theme=github-compact&custom_title=Bintang%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bintangnugrahaa&theme=redical&custom_title=Bintang%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
