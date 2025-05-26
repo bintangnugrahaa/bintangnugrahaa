@@ -1,14 +1,16 @@
 <a href="https://portfolio-henna-theta-19.vercel.app" target="_blank">
-  <img src="https://raw.githubusercontent.com/bintangnugrahaa/portfolio/refs/heads/main/public/og.image.png" alt="Banner Portfolio" style="width:100%; border-radius: 12px;" />
+  <img src="https://raw.githubusercontent.com/bintangnugrahaa/portfolio/refs/heads/main/public/og.image.png" alt="Banner Portfolio" style="width:100%; border-radius: 16px; box-shadow: 0 8px 20px rgba(0,0,0,0.2); transition: 0.3s;" />
 </a>
 
 ---
 
 ### 💼 Tech Stack
 
-- **Languages:** HTML5, CSS3, JavaScript (ES6+), TypeScript, SQL, PHP  
-- **Frameworks & Libraries:** React, Vue, Next.js, Astro, TailwindCSS, Laravel, Node.js  
-- **Tools & Platforms:** Firebase, Vercel, Git, GitHub, Figma
+<div style="display: flex; flex-wrap: wrap; gap: 10px; font-family: monospace;">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php" />
+  <img src="https://skillicons.dev/icons?i=react,next,vue,astro,nodejs,laravel" />
+  <img src="https://skillicons.dev/icons?i=firebase,tailwind,vercel,figma,git,github" />
+</div>
 
 ---
 
