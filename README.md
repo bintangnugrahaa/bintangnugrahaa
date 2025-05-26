@@ -17,5 +17,5 @@ Web Developer
 </p>
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=c16l4seb54mmz7kt0qwxiumwv&count=1&width=840px" alt="Spotify">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=c16l4seb54mmz7kt0qwxiumwv&count=5&width=840px" alt="Spotify">
 </div>
