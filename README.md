@@ -9,7 +9,7 @@
 <div style="display: flex; flex-wrap: wrap; gap: 10px; font-family: monospace;">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,php" />
   <img src="https://skillicons.dev/icons?i=react,astro,laravel" />
-  <img src="https://skillicons.dev/icons?i=tailwind" />
+  <img src="https://skillicons.dev/icons?i=dart,tailwind" />
 </div>
 
 ---
