@@ -25,8 +25,8 @@
 
 ### 🎧 What I'm Listening To
 
-<p>
-  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=c16l4seb54mmz7kt0qwxiumwv&count=10&width=470&footer=wave" alt="Recently Played on Spotify">
+<p align="center">
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=c16l4seb54mmz7kt0qwxiumwv&count=7&width=1000&footer=wave" alt="Recently Played on Spotify">
 </p>
 
 ---
