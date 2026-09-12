@@ -1,4 +1,4 @@
-<a href="https://bintangnugraha.vercel.app" target="_blank">
+<a href="https://bintangnugraha.my.id" target="_blank">
   <img src="https://raw.githubusercontent.com/bintangnugrahaa/bintangnugraha.my.id/refs/heads/main/public/og.image.webp" alt="Banner Portfolio" style="width:100%; border-radius: 16px; box-shadow: 0 8px 20px rgba(0,0,0,0.2); transition: 0.3s;" />
 </a>
 
