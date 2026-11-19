@@ -14,7 +14,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bintangnugrahaa&layout=compact&langs_count=8&theme=algolia" alt="Most Used Languages" />
 </p>
 
@@ -30,7 +30,7 @@
 
 ### 📫 Connect with Me
 
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/bintangnugraha" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
