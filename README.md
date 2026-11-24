@@ -7,7 +7,7 @@
 ### 💼 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,astro,tailwind,nodejs,express,nestjs,php,laravel,cs,dotnet,java,go,python,flutter,dart,mysql,postgres,mongodb,docker,git,linux,figma&perline=10" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,astro,tailwind,nodejs,express,nestjs,php,laravel,cs,dotnet,java,go,python,flutter,dart,mysql,postgres,mongodb,docker,git&perline=10" alt="Tech Stack" />
 </p>
 
 ---
